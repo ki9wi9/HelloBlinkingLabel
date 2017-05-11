@@ -1,0 +1,16 @@
+PODS:
+  - HelloBlinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - HelloBlinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  HelloBlinkingLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HelloBlinkingLabel: a87d128231b0fd1bfdb401f02ec9f06519b4f1fe
+
+PODFILE CHECKSUM: 1b5d176c93803b9ecd51afa2da9aa2074f008296
+
+COCOAPODS: 1.2.0
